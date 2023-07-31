@@ -1,0 +1,4 @@
+rouge : ff3131
+noir : 000000
+bleue : 0cc0df
+blanc : ffffff
